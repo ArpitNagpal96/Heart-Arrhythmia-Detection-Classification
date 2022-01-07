@@ -1,0 +1,13 @@
+clear;
+IMPUTE;
+input('please enter to continue');
+ACCURACY_PLOT;
+clc;
+input('please enter to continue');
+SVD_single_iter;
+clc;
+input('please enter to continue');
+TRAIN;
+clc;
+input('please enter to continue');
+CHECKING;
